@@ -1,0 +1,8 @@
+tessorflow 2.x
+scipy
+sklearn
+talib
+matplotlib
+numba
+numpy
+pandas
